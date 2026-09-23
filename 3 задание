@@ -2,6 +2,5 @@
 function makeCoffe($type, $sugar = 0) {
     return "Ваш кофе ". $type. ", сахара: ". $sugar . " количество ";
 }
- echo makeCoffe("Раф", 2 ) ;
- echo makeCoffe("Раф", 0 ) ;
- ?>
+ echo makeCoffe("Раф", 2 );
+ echo makeCoffe("Раф", 0 );

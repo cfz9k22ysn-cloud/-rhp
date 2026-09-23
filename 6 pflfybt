@@ -1,0 +1,4 @@
+<?php
+$languages = ['PHP' , 'JavaScript' , 'Python'];
+echo $langues [1];
+print_r ($langues);

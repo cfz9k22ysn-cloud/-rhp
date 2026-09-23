@@ -5,4 +5,3 @@ function calculateRectangleArea($length, $width) {
 $area = calculateRectangleArea(10, 5);
 $finalresult = $area * 2;
 echo $finalresult;
-?>

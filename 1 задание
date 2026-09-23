@@ -1,8 +1,7 @@
 <?php
 funcion getGreeting ($name) {
-  return "Привет," . $name. "!";
+    return "Привет," . $name . "!";
 }
 echo getGreeting ("Максим");
 echo getGreeting ("Никита");
 echo getGreeting ("Кристина");
-?>
